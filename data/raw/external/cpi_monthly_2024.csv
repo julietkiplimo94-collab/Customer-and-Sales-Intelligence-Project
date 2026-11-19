@@ -1,0 +1,13 @@
+month,month_name,cpi_overall,yoy_inflation_pct,mom_change_pct_calc,cpi_in_own_release,yoy_in_own_release,base_period,source
+2024-01,January,138.15,6.9,0.44,138.15,6.9,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-02,February,138.34,6.3,0.14,138.34,6.3,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-03,March,138.66,5.7,0.23,138.66,5.7,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-04,April,138.4,5.0,-0.19,138.4,5.0,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-05,May,139.64,5.0,0.9,139.85,5.1,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-06,June,140.23,4.6,0.42,140.23,4.6,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-07,July,139.94,4.3,-0.21,139.94,4.3,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-08,August,139.87,4.4,-0.05,139.87,4.4,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-09,September,140.13,3.6,0.19,140.13,3.6,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-10,October,140.44,2.7,0.22,140.44,2.7,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-11,November,140.81,2.8,0.26,140.81,2.8,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release
+2024-12,December,141.66,3.0,0.6,141.66,3.0,Feb 2019=100,KNBS CPI release (Table 1); values from Dec 2024 release

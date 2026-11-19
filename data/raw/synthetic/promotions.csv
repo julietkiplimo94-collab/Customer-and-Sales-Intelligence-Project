@@ -1,0 +1,24 @@
+promo_id,promo_name,promo_type,start_date,end_date,discount_pct,categories,loyalty_only,anchor_event
+PR01,New Year Staples,Seasonal percent-off,2024-01-01,2024-01-14,10,Maize flour & grains;Cooking oil & fats;Sugar & sweeteners,0,New Year / school opening
+PR02,Ramadan Essentials,Seasonal percent-off,2024-03-11,2024-04-10,8,Cooking oil & fats;Sugar & sweeteners;Dairy & eggs;Beverages,0,Ramadan / Eid-ul-Fitr
+PR03,Easter Baking Deal,Seasonal percent-off,2024-03-25,2024-04-01,12,Sugar & sweeteners;Dairy & eggs;Bread & bakery,0,Easter
+PR04,Labour Day Weekend,Seasonal percent-off,2024-04-29,2024-05-01,10,Beverages;Snacks & confectionery,0,Labour Day
+PR05,Madaraka Weekend,Seasonal percent-off,2024-05-30,2024-06-02,10,Beverages;Snacks & confectionery,0,Madaraka Day
+PR06,Fresh Produce Week,Category promotion,2024-07-08,2024-07-14,15,Fresh produce,0,
+PR07,Back-to-School Home Care,Seasonal percent-off,2024-08-26,2024-09-08,10,Toiletries & personal care;Household cleaning,0,School term 3 opening
+PR08,Mashujaa Weekend,Seasonal percent-off,2024-10-18,2024-10-21,10,Beverages;Snacks & confectionery,0,Mashujaa Day
+PR09,Black Friday,Storewide percent-off,2024-11-25,2024-12-01,20,ALL,0,Black Friday
+PR10,Christmas Feast,Seasonal percent-off,2024-12-14,2024-12-24,12,Cooking oil & fats;Sugar & sweeteners;Dairy & eggs;Beverages;Snacks & confectionery,0,Christmas
+PR11,Festive Season Treats,Seasonal percent-off,2024-12-26,2024-12-31,10,Beverages;Snacks & confectionery,0,Boxing Day / New Year
+PR12,Payday Saver Jan,Loyalty payday,2024-01-25,2024-01-31,5,ALL,1,Month-end payday
+PR13,Payday Saver Feb,Loyalty payday,2024-02-25,2024-02-29,5,ALL,1,Month-end payday
+PR14,Payday Saver Mar,Loyalty payday,2024-03-25,2024-03-31,5,ALL,1,Month-end payday
+PR15,Payday Saver Apr,Loyalty payday,2024-04-25,2024-04-30,5,ALL,1,Month-end payday
+PR16,Payday Saver May,Loyalty payday,2024-05-25,2024-05-31,5,ALL,1,Month-end payday
+PR17,Payday Saver Jun,Loyalty payday,2024-06-25,2024-06-30,5,ALL,1,Month-end payday
+PR18,Payday Saver Jul,Loyalty payday,2024-07-25,2024-07-31,5,ALL,1,Month-end payday
+PR19,Payday Saver Aug,Loyalty payday,2024-08-25,2024-08-31,5,ALL,1,Month-end payday
+PR20,Payday Saver Sep,Loyalty payday,2024-09-25,2024-09-30,5,ALL,1,Month-end payday
+PR21,Payday Saver Oct,Loyalty payday,2024-10-25,2024-10-31,5,ALL,1,Month-end payday
+PR22,Payday Saver Nov,Loyalty payday,2024-11-25,2024-11-30,5,ALL,1,Month-end payday
+PR23,Payday Saver Dec,Loyalty payday,2024-12-25,2024-12-31,5,ALL,1,Month-end payday

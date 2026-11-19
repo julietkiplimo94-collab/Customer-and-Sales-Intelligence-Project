@@ -1,0 +1,401 @@
+product_id,sku,product_name,category,brand,unit_size,base_price_kes,base_cost_kes,cpi_division,price_anchor_source
+P0001,SKU100001,Zawadi Maize flour (fortified) 2 kg,Maize flour & grains,Zawadi,2 kg,179,154.1,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0002,SKU100002,Savanna Gold Maize flour (sifted) 2 kg,Maize flour & grains,Savanna Gold,2 kg,148,132.24,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0003,SKU100003,Zawadi Wheat flour (white) 2 kg,Maize flour & grains,Zawadi,2 kg,203,174.92,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0004,SKU100004,Zawadi Rice (white) 2 kg,Maize flour & grains,Zawadi,2 kg,447,397.62,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0005,SKU100005,Soko Fresh Own Label Beans 1 kg,Maize flour & grains,Soko Fresh Own Label,1 kg,159,138.95,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0006,SKU100006,Savanna Gold Maize flour (loose-style) 1 kg,Maize flour & grains,Savanna Gold,1 kg,72,63.24,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0007,SKU100007,Nyota Maize flour (sifted) 2 kg,Maize flour & grains,Nyota,2 kg,191,168.62,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0008,SKU100008,Mama Pima Beans 1 kg,Maize flour & grains,Mama Pima,1 kg,197,175.24,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0009,SKU100009,Kilele Maize flour (sifted) 2 kg,Maize flour & grains,Kilele,2 kg,144,129.65,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0010,SKU100010,Kilele Maize flour (fortified) 2 kg,Maize flour & grains,Kilele,2 kg,168,150.22,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0011,SKU100011,Nyota Beans 1 kg,Maize flour & grains,Nyota,1 kg,229,199.02,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0012,SKU100012,Nyota Maize flour (loose-style) 1 kg,Maize flour & grains,Nyota,1 kg,92,78.55,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0013,SKU100013,Mama Pima Wheat flour (white) 2 kg,Maize flour & grains,Mama Pima,2 kg,209,186.34,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0014,SKU100014,Kilele Maize flour (loose-style) 1 kg,Maize flour & grains,Kilele,1 kg,73,65.25,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0015,SKU100015,Savanna Gold Rice (white) 2 kg,Maize flour & grains,Savanna Gold,2 kg,437,375.48,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0016,SKU100016,Soko Fresh Own Label Maize flour (loose-style) 1 kg,Maize flour & grains,Soko Fresh Own Label,1 kg,64,57.47,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0017,SKU100017,Nyota Rice (white) 2 kg,Maize flour & grains,Nyota,2 kg,573,495.13,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0018,SKU100018,Soko Fresh Own Label Wheat flour (white) 2 kg,Maize flour & grains,Soko Fresh Own Label,2 kg,169,145.7,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0019,SKU100019,Baraka Wheat flour (white) 2 kg,Maize flour & grains,Baraka,2 kg,218,196.7,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0020,SKU100020,Jua Fresh Maize flour (loose-style) 1 kg,Maize flour & grains,Jua Fresh,1 kg,97,85.87,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0021,SKU100021,Mama Pima Maize flour (sifted) 2 kg,Maize flour & grains,Mama Pima,2 kg,161,138.38,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0022,SKU100022,Jua Fresh Maize flour (sifted) 2 kg,Maize flour & grains,Jua Fresh,2 kg,194,175.69,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0023,SKU100023,Savanna Gold Maize flour (fortified) 2 kg,Maize flour & grains,Savanna Gold,2 kg,170,147.26,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0024,SKU100024,Baraka Maize flour (fortified) 2 kg,Maize flour & grains,Baraka,2 kg,182,160.81,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0025,SKU100025,Baraka Rice (white) 2 kg,Maize flour & grains,Baraka,2 kg,474,422.92,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0026,SKU100026,Kilele Wheat flour (white) 2 kg,Maize flour & grains,Kilele,2 kg,193,174.71,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0027,SKU100027,Soko Fresh Own Label Maize flour (sifted) 2 kg,Maize flour & grains,Soko Fresh Own Label,2 kg,133,114.41,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0028,SKU100028,Zawadi Maize flour (sifted) 2 kg,Maize flour & grains,Zawadi,2 kg,157,141.86,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0029,SKU100029,Kilele Rice (white) 2 kg,Maize flour & grains,Kilele,2 kg,426,375.5,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0030,SKU100030,Savanna Gold Beans 1 kg,Maize flour & grains,Savanna Gold,1 kg,178,161.0,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0031,SKU100031,Jua Fresh Wheat flour (white) 2 kg,Maize flour & grains,Jua Fresh,2 kg,258,230.52,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0032,SKU100032,Baraka Maize flour (loose-style) 1 kg,Maize flour & grains,Baraka,1 kg,81,72.19,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0033,SKU100033,Mama Pima Maize flour (fortified) 2 kg,Maize flour & grains,Mama Pima,2 kg,180,160.03,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0034,SKU100034,Baraka Beans 1 kg,Maize flour & grains,Baraka,1 kg,195,175.71,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0035,SKU100035,Savanna Gold Wheat flour (white) 2 kg,Maize flour & grains,Savanna Gold,2 kg,190,164.67,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0036,SKU100036,Nyota Wheat flour (white) 2 kg,Maize flour & grains,Nyota,2 kg,243,207.69,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0037,SKU100037,Soko Fresh Own Label Rice (white) 2 kg,Maize flour & grains,Soko Fresh Own Label,2 kg,392,346.79,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0038,SKU100038,Soko Fresh Own Label Maize flour (fortified) 2 kg,Maize flour & grains,Soko Fresh Own Label,2 kg,145,129.19,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0039,SKU100039,Jua Fresh Rice (white) 2 kg,Maize flour & grains,Jua Fresh,2 kg,562,481.72,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0040,SKU100040,Jua Fresh Maize flour (fortified) 2 kg,Maize flour & grains,Jua Fresh,2 kg,214,186.4,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0041,SKU100041,Mama Pima Rice (white) 2 kg,Maize flour & grains,Mama Pima,2 kg,474,411.58,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0042,SKU100042,Baraka Maize flour (sifted) 2 kg,Maize flour & grains,Baraka,2 kg,165,145.54,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0043,SKU100043,Zawadi Beans 1 kg,Maize flour & grains,Zawadi,1 kg,187,168.34,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0044,SKU100044,Kilele Beans 1 kg,Maize flour & grains,Kilele,1 kg,177,153.36,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0045,SKU100045,Zawadi Cooking oil 3 L,Cooking oil & fats,Zawadi,3 L,919,848.26,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0046,SKU100046,Rift Valley Best Cooking oil 3 L,Cooking oil & fats,Rift Valley Best,3 L,1065,939.31,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0047,SKU100047,Savanna Gold Margarine 500 g,Cooking oil & fats,Savanna Gold,500 g,237,209.64,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0048,SKU100048,Baraka Cooking oil 1 L,Cooking oil & fats,Baraka,1 L,336,294.39,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0049,SKU100049,Kilele Cooking oil 1 L,Cooking oil & fats,Kilele,1 L,301,278.79,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0050,SKU100050,Tamu Cooking oil 3 L,Cooking oil & fats,Tamu,3 L,1039,951.04,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0051,SKU100051,Soko Fresh Own Label Cooking oil 3 L,Cooking oil & fats,Soko Fresh Own Label,3 L,763,683.53,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0052,SKU100052,Savanna Gold Cooking fat 1 kg,Cooking oil & fats,Savanna Gold,1 kg,322,298.41,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0053,SKU100053,Baraka Margarine 500 g,Cooking oil & fats,Baraka,500 g,265,241.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0054,SKU100054,Baraka Cooking oil 500 ml,Cooking oil & fats,Baraka,500 ml,176,156.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0055,SKU100055,Tamu Cooking oil 500 ml,Cooking oil & fats,Tamu,500 ml,205,185.38,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0056,SKU100056,Tamu Cooking oil 1 L,Cooking oil & fats,Tamu,1 L,376,343.43,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0057,SKU100057,Zawadi Cooking oil 500 ml,Cooking oil & fats,Zawadi,500 ml,164,148.35,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0058,SKU100058,Rift Valley Best Cooking oil 500 ml,Cooking oil & fats,Rift Valley Best,500 ml,197,181.05,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0059,SKU100059,Rift Valley Best Cooking oil 1 L,Cooking oil & fats,Rift Valley Best,1 L,363,335.73,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0060,SKU100060,Rift Valley Best Margarine 500 g,Cooking oil & fats,Rift Valley Best,500 g,282,249.02,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0061,SKU100061,Savanna Gold Cooking oil 500 ml,Cooking oil & fats,Savanna Gold,500 ml,162,147.33,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0062,SKU100062,Soko Fresh Own Label Cooking oil 1 L,Cooking oil & fats,Soko Fresh Own Label,1 L,268,235.7,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0063,SKU100063,Kilele Cooking oil 3 L,Cooking oil & fats,Kilele,3 L,871,771.96,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0064,SKU100064,Kilele Margarine 500 g,Cooking oil & fats,Kilele,500 g,238,215.73,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0065,SKU100065,Savanna Gold Cooking oil 3 L,Cooking oil & fats,Savanna Gold,3 L,851,769.75,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0066,SKU100066,Baraka Cooking oil 3 L,Cooking oil & fats,Baraka,3 L,953,880.07,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0067,SKU100067,Zawadi Margarine 500 g,Cooking oil & fats,Zawadi,500 g,244,222.45,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0068,SKU100068,Savanna Gold Cooking oil 1 L,Cooking oil & fats,Savanna Gold,1 L,299,267.42,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0069,SKU100069,Tamu Cooking fat 1 kg,Cooking oil & fats,Tamu,1 kg,390,346.79,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0070,SKU100070,Soko Fresh Own Label Cooking oil 500 ml,Cooking oil & fats,Soko Fresh Own Label,500 ml,143,130.64,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0071,SKU100071,Kilele Cooking fat 1 kg,Cooking oil & fats,Kilele,1 kg,304,272.92,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0072,SKU100072,Zawadi Cooking oil 1 L,Cooking oil & fats,Zawadi,1 L,327,303.06,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0073,SKU100073,Rift Valley Best Cooking fat 1 kg,Cooking oil & fats,Rift Valley Best,1 kg,373,329.92,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0074,SKU100074,Tamu Margarine 500 g,Cooking oil & fats,Tamu,500 g,289,266.86,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0075,SKU100075,Kilele Cooking oil 500 ml,Cooking oil & fats,Kilele,500 ml,164,150.96,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0076,SKU100076,Baraka Cooking fat 1 kg,Cooking oil & fats,Baraka,1 kg,346,305.01,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0077,SKU100077,Soko Fresh Own Label Sugar 1 kg,Sugar & sweeteners,Soko Fresh Own Label,1 kg,173,159.99,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0078,SKU100078,Tamu Brown sugar 1 kg,Sugar & sweeteners,Tamu,1 kg,277,248.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0079,SKU100079,Jua Fresh Sugar 1 kg,Sugar & sweeteners,Jua Fresh,1 kg,267,243.72,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0080,SKU100080,Nyota Sugar 2 kg,Sugar & sweeteners,Nyota,2 kg,508,448.68,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0081,SKU100081,Baraka Sugar 2 kg,Sugar & sweeteners,Baraka,2 kg,422,392.85,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0082,SKU100082,Tamu Sugar 1 kg,Sugar & sweeteners,Tamu,1 kg,251,229.03,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0083,SKU100083,Safi Choice Sugar 1 kg,Sugar & sweeteners,Safi Choice,1 kg,260,237.77,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0084,SKU100084,Tamu Sugar 2 kg,Sugar & sweeteners,Tamu,2 kg,470,418.14,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0085,SKU100085,Safi Choice Brown sugar 1 kg,Sugar & sweeteners,Safi Choice,1 kg,282,262.76,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0086,SKU100086,Kijani Brown sugar 1 kg,Sugar & sweeteners,Kijani,1 kg,304,282.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0087,SKU100087,Soko Fresh Own Label Sugar 2 kg,Sugar & sweeteners,Soko Fresh Own Label,2 kg,357,319.22,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0088,SKU100088,Baraka Sugar 1 kg,Sugar & sweeteners,Baraka,1 kg,218,193.65,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0089,SKU100089,Kijani Sugar 2 kg,Sugar & sweeteners,Kijani,2 kg,529,492.49,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0090,SKU100090,Baraka Brown sugar 1 kg,Sugar & sweeteners,Baraka,1 kg,247,226.4,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0091,SKU100091,Jua Fresh Brown sugar 1 kg,Sugar & sweeteners,Jua Fresh,1 kg,289,269.77,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0092,SKU100092,Kijani Honey 500 g,Sugar & sweeteners,Kijani,500 g,623,583.13,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0093,SKU100093,Nyota Honey 500 g,Sugar & sweeteners,Nyota,500 g,609,566.87,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0094,SKU100094,Jua Fresh Honey 500 g,Sugar & sweeteners,Jua Fresh,500 g,586,540.83,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0095,SKU100095,Soko Fresh Own Label Honey 500 g,Sugar & sweeteners,Soko Fresh Own Label,500 g,404,377.14,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0096,SKU100096,Soko Fresh Own Label Brown sugar 1 kg,Sugar & sweeteners,Soko Fresh Own Label,1 kg,203,188.77,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0097,SKU100097,Safi Choice Honey 500 g,Sugar & sweeteners,Safi Choice,500 g,594,532.98,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0098,SKU100098,Jua Fresh Sugar 2 kg,Sugar & sweeteners,Jua Fresh,2 kg,524,465.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0099,SKU100099,Kijani Sugar 1 kg,Sugar & sweeteners,Kijani,1 kg,272,252.85,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0100,SKU100100,Nyota Sugar 1 kg,Sugar & sweeteners,Nyota,1 kg,257,238.31,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0101,SKU100101,Tamu Honey 500 g,Sugar & sweeteners,Tamu,500 g,561,504.54,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0102,SKU100102,Safi Choice Sugar 2 kg,Sugar & sweeteners,Safi Choice,2 kg,507,453.83,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0103,SKU100103,Kijani Long-life milk 500 ml,Dairy & eggs,Kijani,500 ml,96,78.15,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0104,SKU100104,Baraka Cheese 200 g,Dairy & eggs,Baraka,200 g,408,328.02,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0105,SKU100105,Zawadi Yoghurt 500 ml,Dairy & eggs,Zawadi,500 ml,120,97.85,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0106,SKU100106,Pwani Select Butter 250 g,Dairy & eggs,Pwani Select,250 g,436,353.31,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0107,SKU100107,Zawadi Butter 250 g,Dairy & eggs,Zawadi,250 g,322,268.57,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0108,SKU100108,Zawadi Fresh milk 500 ml,Dairy & eggs,Zawadi,500 ml,57,46.24,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0109,SKU100109,Zawadi Cheese 200 g,Dairy & eggs,Zawadi,200 g,376,311.57,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0110,SKU100110,Mama Pima Long-life milk 500 ml,Dairy & eggs,Mama Pima,500 ml,77,64.25,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0111,SKU100111,Rift Valley Best Butter 250 g,Dairy & eggs,Rift Valley Best,250 g,393,326.82,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0112,SKU100112,Mama Pima Yoghurt 500 ml,Dairy & eggs,Mama Pima,500 ml,125,101.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0113,SKU100113,Mama Pima Cream 250 ml,Dairy & eggs,Mama Pima,250 ml,208,171.78,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0114,SKU100114,Soko Fresh Own Label Cheese 200 g,Dairy & eggs,Soko Fresh Own Label,200 g,315,265.31,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0115,SKU100115,Pwani Select Long-life milk 500 ml,Dairy & eggs,Pwani Select,500 ml,96,77.82,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0116,SKU100116,Mama Pima Fresh milk 500 ml,Dairy & eggs,Mama Pima,500 ml,60,48.16,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0117,SKU100117,Rift Valley Best Fresh milk 1 L,Dairy & eggs,Rift Valley Best,1 L,124,104.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0118,SKU100118,Zawadi Fresh milk 1 L,Dairy & eggs,Zawadi,1 L,110,91.65,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0119,SKU100119,Zawadi Eggs tray of 30,Dairy & eggs,Zawadi,tray of 30,426,357.41,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0120,SKU100120,Rift Valley Best Yoghurt 500 ml,Dairy & eggs,Rift Valley Best,500 ml,140,116.3,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0121,SKU100121,Pwani Select Cream 250 ml,Dairy & eggs,Pwani Select,250 ml,257,209.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0122,SKU100122,Mama Pima Butter 250 g,Dairy & eggs,Mama Pima,250 g,333,276.13,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0123,SKU100123,Zawadi Cream 250 ml,Dairy & eggs,Zawadi,250 ml,203,170.06,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0124,SKU100124,Baraka Eggs tray of 30,Dairy & eggs,Baraka,tray of 30,465,387.67,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0125,SKU100125,Kijani Fresh milk 500 ml,Dairy & eggs,Kijani,500 ml,72,60.12,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0126,SKU100126,Soko Fresh Own Label Fresh milk 1 L,Dairy & eggs,Soko Fresh Own Label,1 L,95,77.73,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0127,SKU100127,Kijani Eggs tray of 30,Dairy & eggs,Kijani,tray of 30,548,460.62,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0128,SKU100128,Rift Valley Best Cheese 200 g,Dairy & eggs,Rift Valley Best,200 g,430,344.84,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0129,SKU100129,Pwani Select Fresh milk 1 L,Dairy & eggs,Pwani Select,1 L,142,116.66,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0130,SKU100130,Mama Pima Eggs tray of 30,Dairy & eggs,Mama Pima,tray of 30,445,360.9,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0131,SKU100131,Baraka Long-life milk 500 ml,Dairy & eggs,Baraka,500 ml,80,65.37,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0132,SKU100132,Kijani Butter 250 g,Dairy & eggs,Kijani,250 g,427,358.38,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0133,SKU100133,Mama Pima Fresh milk 1 L,Dairy & eggs,Mama Pima,1 L,113,94.92,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0134,SKU100134,Mama Pima Cheese 200 g,Dairy & eggs,Mama Pima,200 g,391,314.06,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0135,SKU100135,Baraka Cream 250 ml,Dairy & eggs,Baraka,250 ml,216,176.59,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0136,SKU100136,Pwani Select Eggs tray of 30,Dairy & eggs,Pwani Select,tray of 30,565,472.75,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0137,SKU100137,Soko Fresh Own Label Long-life milk 500 ml,Dairy & eggs,Soko Fresh Own Label,500 ml,63,52.52,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0138,SKU100138,Rift Valley Best Cream 250 ml,Dairy & eggs,Rift Valley Best,250 ml,232,187.26,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0139,SKU100139,Soko Fresh Own Label Yoghurt 500 ml,Dairy & eggs,Soko Fresh Own Label,500 ml,102,84.71,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0140,SKU100140,Soko Fresh Own Label Fresh milk 500 ml,Dairy & eggs,Soko Fresh Own Label,500 ml,48,38.97,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0141,SKU100141,Rift Valley Best Fresh milk 500 ml,Dairy & eggs,Rift Valley Best,500 ml,68,54.36,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0142,SKU100142,Kijani Cheese 200 g,Dairy & eggs,Kijani,200 g,472,384.32,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0143,SKU100143,Rift Valley Best Eggs tray of 30,Dairy & eggs,Rift Valley Best,tray of 30,488,393.29,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0144,SKU100144,Baraka Fresh milk 1 L,Dairy & eggs,Baraka,1 L,116,94.15,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0145,SKU100145,Rift Valley Best Long-life milk 500 ml,Dairy & eggs,Rift Valley Best,500 ml,87,69.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0146,SKU100146,Kijani Fresh milk 1 L,Dairy & eggs,Kijani,1 L,142,115.67,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0147,SKU100147,Pwani Select Fresh milk 500 ml,Dairy & eggs,Pwani Select,500 ml,76,63.99,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0148,SKU100148,Kijani Yoghurt 500 ml,Dairy & eggs,Kijani,500 ml,148,124.13,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0149,SKU100149,Soko Fresh Own Label Butter 250 g,Dairy & eggs,Soko Fresh Own Label,250 g,282,230.92,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0150,SKU100150,Pwani Select Cheese 200 g,Dairy & eggs,Pwani Select,200 g,505,409.1,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0151,SKU100151,Zawadi Coffee 100 g,Beverages,Zawadi,100 g,278,203.68,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0152,SKU100152,Rift Valley Best Soda 500 ml,Beverages,Rift Valley Best,500 ml,83,62.12,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0153,SKU100153,Soko Fresh Own Label Drinking chocolate 250 g,Beverages,Soko Fresh Own Label,250 g,218,162.21,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0154,SKU100154,Kilele Fruit juice 1 L,Beverages,Kilele,1 L,171,131.82,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0155,SKU100155,Rift Valley Best Tea leaves 250 g,Beverages,Rift Valley Best,250 g,153,116.66,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0156,SKU100156,Kilele Soda 500 ml,Beverages,Kilele,500 ml,65,48.2,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0157,SKU100157,Safi Choice Instant porridge 500 g,Beverages,Safi Choice,500 g,232,178.48,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0158,SKU100158,Soko Fresh Own Label Soda 500 ml,Beverages,Soko Fresh Own Label,500 ml,60,46.1,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0159,SKU100159,Tamu Coffee 100 g,Beverages,Tamu,100 g,325,250.21,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0160,SKU100160,Tamu Soda 500 ml,Beverages,Tamu,500 ml,80,60.33,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0161,SKU100161,Nyota Fruit juice 1 L,Beverages,Nyota,1 L,229,169.1,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0162,SKU100162,Kilele Instant porridge 500 g,Beverages,Kilele,500 g,182,134.87,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0163,SKU100163,Tamu Fruit juice 1 L,Beverages,Tamu,1 L,213,162.68,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0164,SKU100164,Safi Choice Tea leaves 250 g,Beverages,Safi Choice,250 g,161,121.23,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0165,SKU100165,Zawadi Energy drink 300 ml,Beverages,Zawadi,300 ml,116,87.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0166,SKU100166,Tamu Bottled water 1.5 L,Beverages,Tamu,1.5 L,106,77.44,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0167,SKU100167,Zawadi Tea leaves 250 g,Beverages,Zawadi,250 g,130,94.65,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0168,SKU100168,Nyota Soda 500 ml,Beverages,Nyota,500 ml,87,65.21,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0169,SKU100169,Tamu Tea leaves 250 g,Beverages,Tamu,250 g,152,113.06,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0170,SKU100170,Zawadi Instant porridge 500 g,Beverages,Zawadi,500 g,193,144.4,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0171,SKU100171,Soko Fresh Own Label Coffee 100 g,Beverages,Soko Fresh Own Label,100 g,233,171.35,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0172,SKU100172,Rift Valley Best Bottled water 1.5 L,Beverages,Rift Valley Best,1.5 L,104,78.7,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0173,SKU100173,Zawadi Bottled water 1.5 L,Beverages,Zawadi,1.5 L,90,69.2,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0174,SKU100174,Nyota Instant porridge 500 g,Beverages,Nyota,500 g,240,179.62,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0175,SKU100175,Soko Fresh Own Label Energy drink 300 ml,Beverages,Soko Fresh Own Label,300 ml,104,78.43,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0176,SKU100176,Soko Fresh Own Label Instant porridge 500 g,Beverages,Soko Fresh Own Label,500 g,160,118.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0177,SKU100177,Soko Fresh Own Label Tea leaves 250 g,Beverages,Soko Fresh Own Label,250 g,113,83.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0178,SKU100178,Safi Choice Drinking chocolate 250 g,Beverages,Safi Choice,250 g,315,239.8,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0179,SKU100179,Kilele Coffee 100 g,Beverages,Kilele,100 g,266,201.51,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0180,SKU100180,Kilele Bottled water 1.5 L,Beverages,Kilele,1.5 L,84,62.98,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0181,SKU100181,Safi Choice Energy drink 300 ml,Beverages,Safi Choice,300 ml,144,107.92,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0182,SKU100182,Rift Valley Best Coffee 100 g,Beverages,Rift Valley Best,100 g,322,238.0,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0183,SKU100183,Tamu Drinking chocolate 250 g,Beverages,Tamu,250 g,300,226.3,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0184,SKU100184,Kilele Drinking chocolate 250 g,Beverages,Kilele,250 g,252,189.63,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0185,SKU100185,Rift Valley Best Instant porridge 500 g,Beverages,Rift Valley Best,500 g,220,161.94,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0186,SKU100186,Kilele Tea leaves 250 g,Beverages,Kilele,250 g,121,90.24,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0187,SKU100187,Kilele Energy drink 300 ml,Beverages,Kilele,300 ml,114,84.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0188,SKU100188,Nyota Energy drink 300 ml,Beverages,Nyota,300 ml,149,113.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0189,SKU100189,Tamu Energy drink 300 ml,Beverages,Tamu,300 ml,140,101.96,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0190,SKU100190,Rift Valley Best Drinking chocolate 250 g,Beverages,Rift Valley Best,250 g,298,222.22,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0191,SKU100191,Tamu Instant porridge 500 g,Beverages,Tamu,500 g,219,165.87,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0192,SKU100192,Soko Fresh Own Label Bottled water 1.5 L,Beverages,Soko Fresh Own Label,1.5 L,76,57.18,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0193,SKU100193,Rift Valley Best Energy drink 300 ml,Beverages,Rift Valley Best,300 ml,138,106.58,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0194,SKU100194,Nyota Coffee 100 g,Beverages,Nyota,100 g,350,260.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0195,SKU100195,Nyota Bottled water 1.5 L,Beverages,Nyota,1.5 L,112,83.03,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0196,SKU100196,Safi Choice Coffee 100 g,Beverages,Safi Choice,100 g,334,253.83,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0197,SKU100197,Rift Valley Best Fruit juice 1 L,Beverages,Rift Valley Best,1 L,206,156.75,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0198,SKU100198,Nyota Drinking chocolate 250 g,Beverages,Nyota,250 g,332,251.84,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0199,SKU100199,Zawadi Drinking chocolate 250 g,Beverages,Zawadi,250 g,253,192.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0200,SKU100200,Zawadi Fruit juice 1 L,Beverages,Zawadi,1 L,176,132.71,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0201,SKU100201,Savanna Gold Spinach 1 kg,Fresh produce,Savanna Gold,1 kg,70,49.71,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0202,SKU100202,Tamu Spinach 1 kg,Fresh produce,Tamu,1 kg,89,61.21,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0203,SKU100203,Savanna Gold Potatoes 1 kg,Fresh produce,Savanna Gold,1 kg,94,66.43,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0204,SKU100204,Soko Fresh Own Label Carrots 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,90,61.77,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0205,SKU100205,Jua Fresh Kale (sukuma wiki) 1 kg,Fresh produce,Jua Fresh,1 kg,77,52.29,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0206,SKU100206,Jua Fresh Onions 1 kg,Fresh produce,Jua Fresh,1 kg,188,132.34,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0207,SKU100207,Tamu Avocado 1 kg,Fresh produce,Tamu,1 kg,110,75.76,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0208,SKU100208,Soko Fresh Own Label Bananas 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,69,48.89,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0209,SKU100209,Safi Choice Avocado 1 kg,Fresh produce,Safi Choice,1 kg,115,81.41,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0210,SKU100210,Jua Fresh Oranges 1 kg,Fresh produce,Jua Fresh,1 kg,112,79.75,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0211,SKU100211,Safi Choice Cabbage 1 kg,Fresh produce,Safi Choice,1 kg,74,52.3,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0212,SKU100212,Safi Choice Mangoes 1 kg,Fresh produce,Safi Choice,1 kg,124,86.41,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0213,SKU100213,Jua Fresh Carrots 1 kg,Fresh produce,Jua Fresh,1 kg,136,96.04,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0214,SKU100214,Savanna Gold Bananas 1 kg,Fresh produce,Savanna Gold,1 kg,78,55.67,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0215,SKU100215,Tamu Carrots 1 kg,Fresh produce,Tamu,1 kg,123,84.37,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0216,SKU100216,Safi Choice Kale (sukuma wiki) 1 kg,Fresh produce,Safi Choice,1 kg,76,53.99,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0217,SKU100217,Soko Fresh Own Label Onions 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,128,88.46,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0218,SKU100218,Tamu Kale (sukuma wiki) 1 kg,Fresh produce,Tamu,1 kg,72,50.97,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0219,SKU100219,Soko Fresh Own Label Tomatoes 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,78,56.05,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0220,SKU100220,Jua Fresh Mangoes 1 kg,Fresh produce,Jua Fresh,1 kg,125,87.47,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0221,SKU100221,Safi Choice Bananas 1 kg,Fresh produce,Safi Choice,1 kg,95,64.66,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0222,SKU100222,Soko Fresh Own Label Kale (sukuma wiki) 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,53,36.7,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0223,SKU100223,Safi Choice Carrots 1 kg,Fresh produce,Safi Choice,1 kg,129,88.09,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0224,SKU100224,Soko Fresh Own Label Avocado 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,83,59.27,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0225,SKU100225,Jua Fresh Spinach 1 kg,Fresh produce,Jua Fresh,1 kg,93,66.86,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0226,SKU100226,Safi Choice Spinach 1 kg,Fresh produce,Safi Choice,1 kg,92,65.07,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0227,SKU100227,Tamu Cabbage 1 kg,Fresh produce,Tamu,1 kg,70,47.65,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0228,SKU100228,Savanna Gold Mangoes 1 kg,Fresh produce,Savanna Gold,1 kg,96,67.08,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0229,SKU100229,Safi Choice Tomatoes 1 kg,Fresh produce,Safi Choice,1 kg,112,80.36,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0230,SKU100230,Tamu Onions 1 kg,Fresh produce,Tamu,1 kg,173,121.72,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0231,SKU100231,Tamu Potatoes 1 kg,Fresh produce,Tamu,1 kg,118,82.56,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0232,SKU100232,Savanna Gold Carrots 1 kg,Fresh produce,Savanna Gold,1 kg,100,69.36,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0233,SKU100233,Savanna Gold Oranges 1 kg,Fresh produce,Savanna Gold,1 kg,82,57.99,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0234,SKU100234,Tamu Oranges 1 kg,Fresh produce,Tamu,1 kg,104,72.06,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0235,SKU100235,Soko Fresh Own Label Mangoes 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,86,59.44,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0236,SKU100236,Jua Fresh Bananas 1 kg,Fresh produce,Jua Fresh,1 kg,103,73.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0237,SKU100237,Safi Choice Onions 1 kg,Fresh produce,Safi Choice,1 kg,183,127.75,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0238,SKU100238,Safi Choice Oranges 1 kg,Fresh produce,Safi Choice,1 kg,104,72.03,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0239,SKU100239,Soko Fresh Own Label Spinach 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,64,44.54,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0240,SKU100240,Jua Fresh Avocado 1 kg,Fresh produce,Jua Fresh,1 kg,119,85.74,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0241,SKU100241,Tamu Mangoes 1 kg,Fresh produce,Tamu,1 kg,118,82.81,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0242,SKU100242,Savanna Gold Tomatoes 1 kg,Fresh produce,Savanna Gold,1 kg,86,59.07,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0243,SKU100243,Jua Fresh Tomatoes 1 kg,Fresh produce,Jua Fresh,1 kg,114,81.03,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0244,SKU100244,Jua Fresh Cabbage 1 kg,Fresh produce,Jua Fresh,1 kg,77,54.74,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0245,SKU100245,Savanna Gold Onions 1 kg,Fresh produce,Savanna Gold,1 kg,140,98.29,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0246,SKU100246,Soko Fresh Own Label Oranges 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,76,53.0,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0247,SKU100247,Tamu Bananas 1 kg,Fresh produce,Tamu,1 kg,95,64.99,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0248,SKU100248,Tamu Tomatoes 1 kg,Fresh produce,Tamu,1 kg,110,77.5,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0249,SKU100249,Soko Fresh Own Label Cabbage 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,51,34.97,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0250,SKU100250,Safi Choice Potatoes 1 kg,Fresh produce,Safi Choice,1 kg,122,85.67,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0251,SKU100251,Savanna Gold Kale (sukuma wiki) 1 kg,Fresh produce,Savanna Gold,1 kg,59,42.52,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0252,SKU100252,Soko Fresh Own Label Potatoes 1 kg,Fresh produce,Soko Fresh Own Label,1 kg,87,60.76,Food and Non-Alcoholic Beverages,"KNBS CPI release Table 3, national average"
+P0253,SKU100253,Pwani Select Buns pack of 6,Bread & bakery,Pwani Select,pack of 6,116,89.51,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0254,SKU100254,Pwani Select Bread 400 g,Bread & bakery,Pwani Select,400 g,76,59.98,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0255,SKU100255,Tamu Bread 400 g,Bread & bakery,Tamu,400 g,71,54.49,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0256,SKU100256,Jua Fresh Chapati pack of 5,Bread & bakery,Jua Fresh,pack of 5,128,97.11,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0257,SKU100257,Savanna Gold Mandazi pack of 6,Bread & bakery,Savanna Gold,pack of 6,77,60.8,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0258,SKU100258,Kilele Bread 400 g,Bread & bakery,Kilele,400 g,58,44.93,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0259,SKU100259,Tamu Mandazi pack of 6,Bread & bakery,Tamu,pack of 6,95,75.53,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0260,SKU100260,Jua Fresh Buns pack of 6,Bread & bakery,Jua Fresh,pack of 6,116,90.45,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0261,SKU100261,Savanna Gold Chapati pack of 5,Bread & bakery,Savanna Gold,pack of 5,92,71.77,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0262,SKU100262,Kilele Mandazi pack of 6,Bread & bakery,Kilele,pack of 6,76,60.59,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0263,SKU100263,Kilele Chapati pack of 5,Bread & bakery,Kilele,pack of 5,97,75.39,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0264,SKU100264,Mama Pima Bread 800 g,Bread & bakery,Mama Pima,800 g,114,88.69,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0265,SKU100265,Pwani Select Mandazi pack of 6,Bread & bakery,Pwani Select,pack of 6,105,81.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0266,SKU100266,Jua Fresh Bread 800 g,Bread & bakery,Jua Fresh,800 g,139,106.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0267,SKU100267,Pwani Select Chapati pack of 5,Bread & bakery,Pwani Select,pack of 5,129,103.45,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0268,SKU100268,Savanna Gold Bread 400 g,Bread & bakery,Savanna Gold,400 g,56,44.19,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0269,SKU100269,Soko Fresh Own Label Buns pack of 6,Bread & bakery,Soko Fresh Own Label,pack of 6,77,61.33,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0270,SKU100270,Mama Pima Chapati pack of 5,Bread & bakery,Mama Pima,pack of 5,105,83.67,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0271,SKU100271,Kilele Bread 800 g,Bread & bakery,Kilele,800 g,103,79.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0272,SKU100272,Soko Fresh Own Label Bread 800 g,Bread & bakery,Soko Fresh Own Label,800 g,95,75.25,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0273,SKU100273,Pwani Select Bread 800 g,Bread & bakery,Pwani Select,800 g,146,110.71,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0274,SKU100274,Mama Pima Bread 400 g,Bread & bakery,Mama Pima,400 g,60,47.17,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0275,SKU100275,Soko Fresh Own Label Chapati pack of 5,Bread & bakery,Soko Fresh Own Label,pack of 5,87,69.89,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0276,SKU100276,Mama Pima Buns pack of 6,Bread & bakery,Mama Pima,pack of 6,94,73.03,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0277,SKU100277,Tamu Buns pack of 6,Bread & bakery,Tamu,pack of 6,103,80.98,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0278,SKU100278,Soko Fresh Own Label Bread 400 g,Bread & bakery,Soko Fresh Own Label,400 g,52,40.42,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0279,SKU100279,Tamu Bread 800 g,Bread & bakery,Tamu,800 g,130,103.85,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0280,SKU100280,Jua Fresh Bread 400 g,Bread & bakery,Jua Fresh,400 g,73,57.95,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0281,SKU100281,Soko Fresh Own Label Mandazi pack of 6,Bread & bakery,Soko Fresh Own Label,pack of 6,67,51.87,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0282,SKU100282,Savanna Gold Buns pack of 6,Bread & bakery,Savanna Gold,pack of 6,84,65.64,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0283,SKU100283,Nyota Petroleum jelly 250 g,Toiletries & personal care,Nyota,250 g,343,235.64,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0284,SKU100284,Pwani Select Bar soap 200 g,Toiletries & personal care,Pwani Select,200 g,115,81.73,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0285,SKU100285,Safi Choice Roll-on deodorant 50 ml,Toiletries & personal care,Safi Choice,50 ml,284,200.96,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0286,SKU100286,Mama Pima Bar soap 200 g,Toiletries & personal care,Mama Pima,200 g,91,62.16,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0287,SKU100287,Pwani Select Toothbrush each,Toiletries & personal care,Pwani Select,each,156,106.18,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0288,SKU100288,Soko Fresh Own Label Petroleum jelly 250 g,Toiletries & personal care,Soko Fresh Own Label,250 g,242,164.66,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0289,SKU100289,Mama Pima Roll-on deodorant 50 ml,Toiletries & personal care,Mama Pima,50 ml,235,160.86,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0290,SKU100290,Pwani Select Shampoo 400 ml,Toiletries & personal care,Pwani Select,400 ml,464,321.42,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0291,SKU100291,Soko Fresh Own Label Toothpaste 100 ml,Toiletries & personal care,Soko Fresh Own Label,100 ml,178,122.36,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0292,SKU100292,Nyota Shampoo 400 ml,Toiletries & personal care,Nyota,400 ml,443,317.1,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0293,SKU100293,Mama Pima Shampoo 400 ml,Toiletries & personal care,Mama Pima,400 ml,358,250.63,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0294,SKU100294,Soko Fresh Own Label Roll-on deodorant 50 ml,Toiletries & personal care,Soko Fresh Own Label,50 ml,193,132.38,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0295,SKU100295,Mama Pima Sanitary pads pack of 10,Toiletries & personal care,Mama Pima,pack of 10,158,113.55,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0296,SKU100296,Nyota Roll-on deodorant 50 ml,Toiletries & personal care,Nyota,50 ml,294,203.27,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0297,SKU100297,Mama Pima Petroleum jelly 250 g,Toiletries & personal care,Mama Pima,250 g,295,210.27,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0298,SKU100298,Soko Fresh Own Label Toothbrush each,Toiletries & personal care,Soko Fresh Own Label,each,102,69.58,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0299,SKU100299,Soko Fresh Own Label Body lotion 400 ml,Toiletries & personal care,Soko Fresh Own Label,400 ml,328,225.82,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0300,SKU100300,Nyota Toothbrush each,Toiletries & personal care,Nyota,each,151,106.81,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0301,SKU100301,Pwani Select Body lotion 400 ml,Toiletries & personal care,Pwani Select,400 ml,489,349.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0302,SKU100302,Nyota Bar soap 200 g,Toiletries & personal care,Nyota,200 g,112,76.47,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0303,SKU100303,Safi Choice Petroleum jelly 250 g,Toiletries & personal care,Safi Choice,250 g,338,233.26,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0304,SKU100304,Safi Choice Toothpaste 100 ml,Toiletries & personal care,Safi Choice,100 ml,249,172.93,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0305,SKU100305,Safi Choice Body lotion 400 ml,Toiletries & personal care,Safi Choice,400 ml,468,322.93,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0306,SKU100306,Tamu Toilet paper 4 rolls,Toiletries & personal care,Tamu,4 rolls,302,213.16,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0307,SKU100307,Mama Pima Toilet paper 4 rolls,Toiletries & personal care,Mama Pima,4 rolls,266,188.15,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0308,SKU100308,Mama Pima Body lotion 400 ml,Toiletries & personal care,Mama Pima,400 ml,391,275.66,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0309,SKU100309,Soko Fresh Own Label Toilet paper 4 rolls,Toiletries & personal care,Soko Fresh Own Label,4 rolls,227,157.26,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0310,SKU100310,Pwani Select Toothpaste 100 ml,Toiletries & personal care,Pwani Select,100 ml,274,193.5,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0311,SKU100311,Mama Pima Toothbrush each,Toiletries & personal care,Mama Pima,each,125,87.31,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0312,SKU100312,Nyota Toilet paper 4 rolls,Toiletries & personal care,Nyota,4 rolls,328,231.66,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0313,SKU100313,Safi Choice Sanitary pads pack of 10,Toiletries & personal care,Safi Choice,pack of 10,178,121.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0314,SKU100314,Tamu Toothbrush each,Toiletries & personal care,Tamu,each,137,98.75,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0315,SKU100315,Tamu Shampoo 400 ml,Toiletries & personal care,Tamu,400 ml,400,275.54,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0316,SKU100316,Tamu Bar soap 200 g,Toiletries & personal care,Tamu,200 g,106,73.7,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0317,SKU100317,Tamu Body lotion 400 ml,Toiletries & personal care,Tamu,400 ml,442,317.74,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0318,SKU100318,Tamu Roll-on deodorant 50 ml,Toiletries & personal care,Tamu,50 ml,273,191.56,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0319,SKU100319,Safi Choice Toothbrush each,Toiletries & personal care,Safi Choice,each,146,103.59,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0320,SKU100320,Safi Choice Toilet paper 4 rolls,Toiletries & personal care,Safi Choice,4 rolls,323,228.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0321,SKU100321,Safi Choice Bar soap 200 g,Toiletries & personal care,Safi Choice,200 g,111,78.24,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0322,SKU100322,Soko Fresh Own Label Sanitary pads pack of 10,Toiletries & personal care,Soko Fresh Own Label,pack of 10,131,90.49,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0323,SKU100323,Pwani Select Petroleum jelly 250 g,Toiletries & personal care,Pwani Select,250 g,366,251.85,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0324,SKU100324,Tamu Toothpaste 100 ml,Toiletries & personal care,Tamu,100 ml,245,168.78,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0325,SKU100325,Tamu Sanitary pads pack of 10,Toiletries & personal care,Tamu,pack of 10,174,125.31,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0326,SKU100326,Soko Fresh Own Label Shampoo 400 ml,Toiletries & personal care,Soko Fresh Own Label,400 ml,295,211.48,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0327,SKU100327,Mama Pima Toothpaste 100 ml,Toiletries & personal care,Mama Pima,100 ml,218,148.58,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0328,SKU100328,Nyota Body lotion 400 ml,Toiletries & personal care,Nyota,400 ml,467,336.08,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0329,SKU100329,Pwani Select Sanitary pads pack of 10,Toiletries & personal care,Pwani Select,pack of 10,199,142.01,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0330,SKU100330,Pwani Select Roll-on deodorant 50 ml,Toiletries & personal care,Pwani Select,50 ml,290,199.49,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0331,SKU100331,Nyota Toothpaste 100 ml,Toiletries & personal care,Nyota,100 ml,264,190.02,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0332,SKU100332,Pwani Select Toilet paper 4 rolls,Toiletries & personal care,Pwani Select,4 rolls,327,226.61,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0333,SKU100333,Tamu Petroleum jelly 250 g,Toiletries & personal care,Tamu,250 g,337,239.96,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0334,SKU100334,Safi Choice Shampoo 400 ml,Toiletries & personal care,Safi Choice,400 ml,417,297.68,"Personal Care, Social Protection and Miscellaneous Goods and Services",Assumed (no public source)
+P0335,SKU100335,Rift Valley Best Liquid detergent 1 L,Household cleaning,Rift Valley Best,1 L,486,359.66,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0336,SKU100336,Soko Fresh Own Label Sponges pack of 3,Household cleaning,Soko Fresh Own Label,pack of 3,83,59.68,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0337,SKU100337,Safi Choice Laundry powder 1 kg,Household cleaning,Safi Choice,1 kg,398,289.76,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0338,SKU100338,Tamu Floor cleaner 1 L,Household cleaning,Tamu,1 L,351,258.93,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0339,SKU100339,Soko Fresh Own Label Air freshener 300 ml,Household cleaning,Soko Fresh Own Label,300 ml,273,191.62,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0340,SKU100340,Safi Choice Air freshener 300 ml,Household cleaning,Safi Choice,300 ml,403,282.6,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0341,SKU100341,Tamu Air freshener 300 ml,Household cleaning,Tamu,300 ml,381,276.51,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0342,SKU100342,Safi Choice Dish soap 750 ml,Household cleaning,Safi Choice,750 ml,304,216.58,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0343,SKU100343,Soko Fresh Own Label Bleach 750 ml,Household cleaning,Soko Fresh Own Label,750 ml,166,119.74,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0344,SKU100344,Soko Fresh Own Label Laundry bar soap 800 g,Household cleaning,Soko Fresh Own Label,800 g,237,171.72,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0345,SKU100345,Pwani Select Floor cleaner 1 L,Household cleaning,Pwani Select,1 L,379,276.18,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0346,SKU100346,Tamu Bleach 750 ml,Household cleaning,Tamu,750 ml,227,164.92,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0347,SKU100347,Soko Fresh Own Label Floor cleaner 1 L,Household cleaning,Soko Fresh Own Label,1 L,259,188.95,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0348,SKU100348,Tamu Sponges pack of 3,Household cleaning,Tamu,pack of 3,115,82.56,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0349,SKU100349,Safi Choice Floor cleaner 1 L,Household cleaning,Safi Choice,1 L,358,255.27,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0350,SKU100350,Pwani Select Dish soap 750 ml,Household cleaning,Pwani Select,750 ml,323,231.39,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0351,SKU100351,Rift Valley Best Laundry bar soap 800 g,Household cleaning,Rift Valley Best,800 g,317,227.24,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0352,SKU100352,Rift Valley Best Laundry powder 1 kg,Household cleaning,Rift Valley Best,1 kg,386,275.82,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0353,SKU100353,Pwani Select Air freshener 300 ml,Household cleaning,Pwani Select,300 ml,418,308.6,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0354,SKU100354,Tamu Liquid detergent 1 L,Household cleaning,Tamu,1 L,479,351.75,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0355,SKU100355,Tamu Laundry bar soap 800 g,Household cleaning,Tamu,800 g,320,224.82,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0356,SKU100356,Tamu Dish soap 750 ml,Household cleaning,Tamu,750 ml,297,217.84,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0357,SKU100357,Pwani Select Bleach 750 ml,Household cleaning,Pwani Select,750 ml,247,178.76,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0358,SKU100358,Safi Choice Liquid detergent 1 L,Household cleaning,Safi Choice,1 L,512,364.87,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0359,SKU100359,Rift Valley Best Air freshener 300 ml,Household cleaning,Rift Valley Best,300 ml,374,266.91,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0360,SKU100360,Pwani Select Laundry bar soap 800 g,Household cleaning,Pwani Select,800 g,366,267.48,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0361,SKU100361,Soko Fresh Own Label Laundry powder 1 kg,Household cleaning,Soko Fresh Own Label,1 kg,287,209.38,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0362,SKU100362,Rift Valley Best Sponges pack of 3,Household cleaning,Rift Valley Best,pack of 3,119,86.2,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0363,SKU100363,Safi Choice Laundry bar soap 800 g,Household cleaning,Safi Choice,800 g,337,243.77,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0364,SKU100364,Pwani Select Sponges pack of 3,Household cleaning,Pwani Select,pack of 3,127,92.3,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0365,SKU100365,Pwani Select Laundry powder 1 kg,Household cleaning,Pwani Select,1 kg,420,295.29,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0366,SKU100366,Rift Valley Best Dish soap 750 ml,Household cleaning,Rift Valley Best,750 ml,296,211.43,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0367,SKU100367,Rift Valley Best Bleach 750 ml,Household cleaning,Rift Valley Best,750 ml,224,162.0,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0368,SKU100368,Pwani Select Liquid detergent 1 L,Household cleaning,Pwani Select,1 L,553,406.41,"Furnishings, Household Equipment and Routine Household Maintenance",Assumed (no public source)
+P0369,SKU100369,Tamu Popcorn 100 g,Snacks & confectionery,Tamu,100 g,105,73.24,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0370,SKU100370,Kijani Cookies 150 g,Snacks & confectionery,Kijani,150 g,175,124.37,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0371,SKU100371,Safi Choice Popcorn 100 g,Snacks & confectionery,Safi Choice,100 g,107,74.59,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0372,SKU100372,Kijani Biscuits 250 g,Snacks & confectionery,Kijani,250 g,150,106.12,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0373,SKU100373,Tamu Crisps 100 g,Snacks & confectionery,Tamu,100 g,94,66.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0374,SKU100374,Nyota Crisps 100 g,Snacks & confectionery,Nyota,100 g,97,67.47,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0375,SKU100375,Safi Choice Sweets 200 g,Snacks & confectionery,Safi Choice,200 g,122,82.88,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0376,SKU100376,Kijani Chocolate bar 100 g,Snacks & confectionery,Kijani,100 g,226,155.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0377,SKU100377,Jua Fresh Peanuts 200 g,Snacks & confectionery,Jua Fresh,200 g,160,110.36,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0378,SKU100378,Tamu Peanuts 200 g,Snacks & confectionery,Tamu,200 g,151,102.58,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0379,SKU100379,Kijani Peanuts 200 g,Snacks & confectionery,Kijani,200 g,168,115.31,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0380,SKU100380,Soko Fresh Own Label Cookies 150 g,Snacks & confectionery,Soko Fresh Own Label,150 g,118,83.61,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0381,SKU100381,Nyota Cookies 150 g,Snacks & confectionery,Nyota,150 g,174,124.24,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0382,SKU100382,Safi Choice Peanuts 200 g,Snacks & confectionery,Safi Choice,200 g,161,109.81,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0383,SKU100383,Safi Choice Cookies 150 g,Snacks & confectionery,Safi Choice,150 g,174,118.46,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0384,SKU100384,Tamu Cookies 150 g,Snacks & confectionery,Tamu,150 g,159,114.11,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0385,SKU100385,Kijani Popcorn 100 g,Snacks & confectionery,Kijani,100 g,117,82.27,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0386,SKU100386,Jua Fresh Popcorn 100 g,Snacks & confectionery,Jua Fresh,100 g,114,80.8,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0387,SKU100387,Soko Fresh Own Label Biscuits 250 g,Snacks & confectionery,Soko Fresh Own Label,250 g,101,69.07,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0388,SKU100388,Jua Fresh Crisps 100 g,Snacks & confectionery,Jua Fresh,100 g,98,67.88,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0389,SKU100389,Tamu Chocolate bar 100 g,Snacks & confectionery,Tamu,100 g,215,151.57,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0390,SKU100390,Nyota Chocolate bar 100 g,Snacks & confectionery,Nyota,100 g,229,164.34,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0391,SKU100391,Safi Choice Chocolate bar 100 g,Snacks & confectionery,Safi Choice,100 g,213,152.18,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0392,SKU100392,Safi Choice Crisps 100 g,Snacks & confectionery,Safi Choice,100 g,96,67.56,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0393,SKU100393,Jua Fresh Chocolate bar 100 g,Snacks & confectionery,Jua Fresh,100 g,226,157.21,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0394,SKU100394,Soko Fresh Own Label Peanuts 200 g,Snacks & confectionery,Soko Fresh Own Label,200 g,109,75.57,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0395,SKU100395,Tamu Biscuits 250 g,Snacks & confectionery,Tamu,250 g,139,95.36,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0396,SKU100396,Soko Fresh Own Label Popcorn 100 g,Snacks & confectionery,Soko Fresh Own Label,100 g,77,52.65,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0397,SKU100397,Tamu Sweets 200 g,Snacks & confectionery,Tamu,200 g,117,83.89,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0398,SKU100398,Soko Fresh Own Label Sweets 200 g,Snacks & confectionery,Soko Fresh Own Label,200 g,84,59.6,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0399,SKU100399,Nyota Popcorn 100 g,Snacks & confectionery,Nyota,100 g,114,81.31,Food and Non-Alcoholic Beverages,Assumed (no public source)
+P0400,SKU100400,Jua Fresh Biscuits 250 g,Snacks & confectionery,Jua Fresh,250 g,148,101.4,Food and Non-Alcoholic Beverages,Assumed (no public source)

@@ -1,0 +1,31 @@
+store_id,store_name,county_code,county,format,catchment_type,floor_area_sqm,opening_date,price_level_index
+S01,Soko Fresh Westlands,47,Nairobi,Hypermarket,Urban,3350,2012-04-12,0.989
+S02,Soko Fresh Embakasi,47,Nairobi,Hypermarket,Urban,3850,2014-09-30,0.989
+S03,Soko Fresh Kilimani,47,Nairobi,Supermarket,Urban,1550,2013-07-25,1.02
+S04,Soko Fresh Kasarani,47,Nairobi,Supermarket,Urban,2350,2013-02-23,1.02
+S05,Soko Fresh Karen,47,Nairobi,Supermarket,Urban,2250,2020-04-21,1.02
+S06,Soko Fresh Langata,47,Nairobi,Mini-mart,Urban,350,2018-08-15,1.071
+S07,Soko Fresh Donholm,47,Nairobi,Mini-mart,Urban,600,2012-05-10,1.071
+S08,Soko Fresh Nyali,1,Mombasa,Hypermarket,Urban,3050,2013-01-18,0.989
+S09,Soko Fresh Mvita,1,Mombasa,Supermarket,Urban,1500,2014-08-10,1.02
+S10,Soko Fresh Bamburi,1,Mombasa,Supermarket,Urban,2000,2018-10-01,1.02
+S11,Soko Fresh Likoni,1,Mombasa,Mini-mart,Urban,300,2018-04-17,1.071
+S12,Soko Fresh Thika,22,Kiambu,Hypermarket,Peri-urban,3600,2020-01-11,0.97
+S13,Soko Fresh Ruiru,22,Kiambu,Supermarket,Peri-urban,2200,2019-11-12,1.0
+S14,Soko Fresh Limuru,22,Kiambu,Mini-mart,Peri-urban,600,2014-06-21,1.05
+S15,Soko Fresh Nakuru Town,32,Nakuru,Hypermarket,Urban,4400,2018-08-10,0.97
+S16,Soko Fresh Naivasha,32,Nakuru,Supermarket,Urban,1600,2021-01-28,1.0
+S17,Soko Fresh Gilgil,32,Nakuru,Mini-mart,Urban,300,2020-07-05,1.05
+S18,Soko Fresh Kisumu CBD,42,Kisumu,Hypermarket,Urban,3500,2019-10-30,0.97
+S19,Soko Fresh Milimani,42,Kisumu,Supermarket,Urban,1850,2015-10-25,1.0
+S20,Soko Fresh Eldoret CBD,27,Uasin Gishu,Supermarket,Urban,1600,2013-09-28,1.0
+S21,Soko Fresh Langas,27,Uasin Gishu,Mini-mart,Urban,450,2022-09-25,1.05
+S22,Soko Fresh Machakos Town,16,Machakos,Supermarket,Peri-urban,2400,2015-10-10,1.0
+S23,Soko Fresh Athi River,16,Machakos,Mini-mart,Peri-urban,350,2013-01-14,1.05
+S24,Soko Fresh Kitengela,34,Kajiado,Supermarket,Peri-urban,1800,2013-01-31,1.0
+S25,Soko Fresh Ngong,34,Kajiado,Mini-mart,Peri-urban,550,2021-07-03,1.05
+S26,Soko Fresh Nyeri Town,19,Nyeri,Supermarket,Town,1750,2018-10-08,1.0
+S27,Soko Fresh Karatina,19,Nyeri,Mini-mart,Town,500,2021-01-18,1.05
+S28,Soko Fresh Meru Town,12,Meru,Supermarket,Town,1250,2020-03-07,1.0
+S29,Soko Fresh Kakamega Town,37,Kakamega,Supermarket,Town,1900,2018-01-05,1.0
+S30,Soko Fresh Garissa Town,7,Garissa,Mini-mart,Town,350,2022-11-29,1.05

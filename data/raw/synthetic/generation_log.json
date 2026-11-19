@@ -1,0 +1,39 @@
+{
+  "seed": 42,
+  "year": 2024,
+  "n_transactions_requested": 60000,
+  "n_customers_requested": 8000,
+  "synthetic": true,
+  "files": {
+    "stores.csv": {
+      "rows": 30,
+      "bytes": 2346,
+      "sha256": "f4a53b8d8c8abae910103338edc63ff5fa3d6cdc7aa8d1c99b9df8c411f87ea9"
+    },
+    "products.csv": {
+      "rows": 400,
+      "bytes": 65485,
+      "sha256": "16e1d7b89a72e1edbfee1758da10856610d0030499efe7df7d0b86fbc341adef"
+    },
+    "customers.csv": {
+      "rows": 8000,
+      "bytes": 318169,
+      "sha256": "7d1f403015fc3ca7fb494b638b960846c52949623adcfb3b16bf3414390bd2ca"
+    },
+    "promotions.csv": {
+      "rows": 23,
+      "bytes": 2524,
+      "sha256": "d68fb7f94aee818b4118ef130b3afbe747567ccf411c16fded3f3fd070d8d67e"
+    },
+    "transactions.csv": {
+      "rows": 60000,
+      "bytes": 3903709,
+      "sha256": "bd6bd7cc16363c731aaef02653c6397b5c25d5a3ae579b25fa520584fecb6973"
+    },
+    "transaction_lines.csv": {
+      "rows": 190448,
+      "bytes": 9700790,
+      "sha256": "0bd59f923c5da01a71d8a84e316e5b6d8cab4f1c78018b4d954c009f0f81080c"
+    }
+  }
+}

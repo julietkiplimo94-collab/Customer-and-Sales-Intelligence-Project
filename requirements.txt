@@ -1,0 +1,11 @@
+# The data generator (src/generate_data.py) and validator (src/validate_data.py)
+# use only the Python standard library (Python 3.9 or newer). Nothing to install for them.
+#
+# The packages below are for the analysis notebooks.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+statsmodels>=0.14
+openpyxl>=3.1
+jupyterlab>=4.0

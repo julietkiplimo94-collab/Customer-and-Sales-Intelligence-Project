@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+csmvenv/
+.pytest_cache/
+.mypy_cache/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Editors and OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# ---- Secrets ----
+.env
+*.key
+
+# ---- Data ----
+# KEEP data/raw/ (external extracts and synthetic tables) under version control.
+# Original source PDFs are not committed: most carry no reuse licence and some are large.
+# Download them again from the URLs in docs/data_inventory.xlsx (see data/sources/README.md).
+data/sources/*
+!data/sources/README.md
+!data/sources/.gitkeep
+
+# Derived files can be rebuilt from data/raw/
+data/processed/*
+!data/processed/.gitkeep
+
+# Local scratch and exports
+*.tmp
+*.log
+exports/
